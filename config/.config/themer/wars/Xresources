@@ -1,0 +1,62 @@
+
+
+*.cursorColor: #72a0a0
+
+!URxvt*font: xft:Ubuntu Mono derivative Powerline:pixelsize=13:antialias=false:hinting=true
+!URxvt*boldFont: xft:Ubuntu Mono derivative Powerline:bold:pixelsize=13:antialias=false:hinting=true
+!URxvt*italicFont: xft:Ubuntu Mono derivative Powerline:italic:pixelsize=13:antialias=true:hinting=true
+
+!URxvt*font: xft:Bitstream Vera Sans Mono:pixelsize=10:antialias=true:hinting=false
+!URxvt*boldFont: xft:Bitstream Vera Sans Mono:bold:pixelsize=10:antialias=false:hinting=true
+!URxvt*italicFont: xft:Bitstream Vera Sans Mono:italic:pixelsize=10:antialias=false:hinting=true
+
+!URxvt*font:					-*-terminuspowerlinelsh-medium-r-normal-*-12-*-*-*-*-*-*-*
+URxvt*boldFont:				-*-terminuspowerlinelsh-bold-r-normal-*-12-*-*-*-*-*-*-*
+!URxvt*italicFont:			-*-terminuspowerlinelsh-medium-r-normal-*-12-*-*-*-*-*-*-*
+URxvt*bolditalicFont:		-*-terminuspowerlinelsh-bold-r-normal-*-12-*-*-*-*-*-*-*
+
+URxvt*font:				-*-terminesspowerline-*-*-*-*-*-*-*-*-*-*-*-*	
+!URxvt*boldFont:			-*-terminesspowerline-*-*-*-*-*-*-*-*-*-*-*-*
+URxvt*italicFont:		-*-terminesspowerline-*-*-*-*-*-*-*-*-*-*-*-*
+!URxvt*bolditalicFont:	-*-terminesspowerline-*-*-*-*-*-*-*-*-*-*-*-*
+
+!URxvt*font:					-*-lime-*-*-*-*-*-*-*-*-*-*-*-*
+!URxvt*boldFont:				-*-lime-*-*-*-*-*-*-*-*-*-*-*-*
+!URxvt*italicFont:			-*-lime-*-*-*-*-*-*-*-*-*-*-*-*
+!URxvt*bolditalicFont:		-*-lime-*-*-*-*-*-*-*-*-*-*-*-*
+
+URxvt.perl-ext-common:  default,matcher
+URxvt.url-launcher:      /usr/bin/chromium
+URxvt.matcher.button:   1
+
+*background: #0e0e0e
+*foreground: #ffffff
+! black
+*color0: #18201e
+*color8: #588486
+! red
+*color1: #6da080
+*color9: #eef3e8
+! green
+*color2: #86a59f
+*color10: #8ec8b8
+! yellow
+*color3: #71a08d
+*color11: #b8c9be
+! blue
+*color4: #d6dfd2
+*color12: #adc8be
+! magenta
+*color5: #75a094
+*color13: #92c8bb
+! cyan
+*color6: #ce847e
+*color14: #79c893
+! white
+*color7: #72a0a0
+*color15: #99c8b6
+! underline when default
+*colorUL: #72a0a0
+! vim: set ft=xdefaults:
+
+URxvt*scrollBar: false

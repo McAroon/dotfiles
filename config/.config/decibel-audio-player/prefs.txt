@@ -1,0 +1,1005 @@
+(dp1
+S'modules_enabled_modules'
+p2
+(lp3
+sS'gui.mainWindow_win-height'
+p4
+I727
+sS'FileExplorer_show-hidden-files'
+p5
+I00
+sS'gui.mainWindow_paned-pos'
+p6
+I210
+sS'gui.preferences_win-is-maximized'
+p7
+I00
+sS'FileExplorer_media-folders'
+p8
+(dp9
+S'Home'
+p10
+S'/home/shroomin'
+p11
+sS'Root'
+p12
+S'/'
+ssS'AutoResume_tracklist'
+p13
+(lp14
+sS'AutoResume_was-playing'
+p15
+I00
+sS'AutoResume_position'
+p16
+I0
+sS'FileExplorer_saved-states'
+p17
+(dp18
+S'Home'
+p19
+(dp20
+S'hscrollbar-pos'
+p21
+F0
+sS'tree-state'
+p22
+(lp23
+(lp24
+(S'Desktop'
+I0
+S'/home/shroomin/Desktop'
+tp25
+aNaa(lp26
+(S'Documents'
+I0
+S'/home/shroomin/Documents'
+tp27
+aNaa(lp28
+(S'Downloads'
+I0
+S'/home/shroomin/Downloads'
+tp29
+a(lp30
+aa(lp31
+(S'Dropbox'
+I0
+S'/home/shroomin/Dropbox'
+tp32
+a(lp33
+aa(lp34
+(S'git'
+I0
+S'/home/shroomin/git'
+tp35
+a(lp36
+aa(lp37
+(S'Music'
+I0
+S'/home/shroomin/Music'
+tp38
+a(lp39
+(lp40
+(S'Music'
+I0
+S'/home/shroomin/Music/Music'
+tp41
+a(lp42
+(lp43
+(S'100 hits - The Best Of Rock of the 70s-80s-90s-www.LoKoTorrents.com'
+I0
+S'/home/shroomin/Music/Music/100 hits - The Best Of Rock of the 70s-80s-90s-www.LoKoTorrents.com'
+tp44
+a(lp45
+aa(lp46
+(S'2012 - Jon Schmidt &amp; Steven Sharp Nelson - The PianoGuys Hits Volume I'
+I0
+S'/home/shroomin/Music/Music/2012 - Jon Schmidt & Steven Sharp Nelson - The PianoGuys Hits Volume I'
+tp47
+a(lp48
+aa(lp49
+(S'40 Summer Trance Hits (2012) 320KB TBS'
+I0
+S'/home/shroomin/Music/Music/40 Summer Trance Hits (2012) 320KB TBS'
+tp50
+a(lp51
+aa(lp52
+(S'[2011] Nero - Welcome Reality (Deluxe Edition)'
+I0
+S'/home/shroomin/Music/Music/[2011] Nero - Welcome Reality (Deluxe Edition)'
+tp53
+a(lp54
+aa(lp55
+(S'A State Of Trance Yearmix 2012 (Mixed By Armin van Buuren) (Inspiron)'
+I0
+S'/home/shroomin/Music/Music/A State Of Trance Yearmix 2012 (Mixed By Armin van Buuren) (Inspiron)'
+tp56
+a(lp57
+aa(lp58
+(S'Adele'
+I0
+S'/home/shroomin/Music/Music/Adele'
+tp59
+a(lp60
+aa(lp61
+(S'After Forever'
+I0
+S'/home/shroomin/Music/Music/After Forever'
+tp62
+a(lp63
+aa(lp64
+(S'Allure - Kiss From The Past - 2011'
+I0
+S'/home/shroomin/Music/Music/Allure - Kiss From The Past - 2011'
+tp65
+a(lp66
+aa(lp67
+(S'Alt-J - An Awesome Wave (2012)'
+I0
+S'/home/shroomin/Music/Music/Alt-J - An Awesome Wave (2012)'
+tp68
+a(lp69
+aa(lp70
+(S'Amorphis'
+I0
+S'/home/shroomin/Music/Music/Amorphis'
+tp71
+a(lp72
+aa(lp73
+(S'Arctic Monkeys - AM (2013) [MP3 320] politux'
+I0
+S'/home/shroomin/Music/Music/Arctic Monkeys - AM (2013) [MP3 320] politux'
+tp74
+a(lp75
+aa(lp76
+(S'Armada Presents Trance Essentials 2012 Vol 1 (Inspiron)'
+I0
+S'/home/shroomin/Music/Music/Armada Presents Trance Essentials 2012 Vol 1 (Inspiron)'
+tp77
+a(lp78
+aa(lp79
+(S'Armin van Buuren'
+I0
+S'/home/shroomin/Music/Music/Armin van Buuren'
+tp80
+a(lp81
+aa(lp82
+(S'Astral Projection'
+I0
+S'/home/shroomin/Music/Music/Astral Projection'
+tp83
+a(lp84
+aa(lp85
+(S'ATB'
+I0
+S'/home/shroomin/Music/Music/ATB'
+tp86
+a(lp87
+aa(lp88
+(S'Avantasia'
+I0
+S'/home/shroomin/Music/Music/Avantasia'
+tp89
+a(lp90
+aa(lp91
+(S'Ayreon.Collection.1995-2008.MP3.320kbps'
+I0
+S'/home/shroomin/Music/Music/Ayreon.Collection.1995-2008.MP3.320kbps'
+tp92
+a(lp93
+aa(lp94
+(S'Bj\xc3\xb6rk'
+I0
+S'/home/shroomin/Music/Music/Bj\xc3\xb6rk'
+tp95
+a(lp96
+aa(lp97
+(S'Blind Guardian'
+I0
+S'/home/shroomin/Music/Music/Blind Guardian'
+tp98
+a(lp99
+aa(lp100
+(S'Breaking Benjamin'
+I0
+S'/home/shroomin/Music/Music/Breaking Benjamin'
+tp101
+a(lp102
+aa(lp103
+(S'Coil'
+I0
+S'/home/shroomin/Music/Music/Coil'
+tp104
+a(lp105
+aa(lp106
+(S'Coldplay'
+I0
+S'/home/shroomin/Music/Music/Coldplay'
+tp107
+a(lp108
+aa(lp109
+(S'Cosmosis'
+I0
+S'/home/shroomin/Music/Music/Cosmosis'
+tp110
+a(lp111
+aa(lp112
+(S'D&amp;W'
+I0
+S'/home/shroomin/Music/Music/D&W'
+tp113
+a(lp114
+aa(lp115
+(S'Daft Punk - Greatest Hits (2CD) - 2008'
+I0
+S'/home/shroomin/Music/Music/Daft Punk - Greatest Hits (2CD) - 2008'
+tp116
+a(lp117
+aa(lp118
+(S'Daft Punk - Random Access Memories (2013) [MP3 192]'
+I0
+S'/home/shroomin/Music/Music/Daft Punk - Random Access Memories (2013) [MP3 192]'
+tp119
+a(lp120
+aa(lp121
+(S'Dash Berlin'
+I0
+S'/home/shroomin/Music/Music/Dash Berlin'
+tp122
+a(lp123
+aa(lp124
+(S'Deadmau5'
+I0
+S'/home/shroomin/Music/Music/Deadmau5'
+tp125
+a(lp126
+aa(lp127
+(S'Delerium'
+I0
+S'/home/shroomin/Music/Music/Delerium'
+tp128
+a(lp129
+aa(lp130
+(S'Depeche Mode'
+I0
+S'/home/shroomin/Music/Music/Depeche Mode'
+tp131
+a(lp132
+aa(lp133
+(S'Disturbed'
+I0
+S'/home/shroomin/Music/Music/Disturbed'
+tp134
+a(lp135
+aa(lp136
+(S'Dream Theater'
+I0
+S'/home/shroomin/Music/Music/Dream Theater'
+tp137
+a(lp138
+aa(lp139
+(S'Eluveitie'
+I0
+S'/home/shroomin/Music/Music/Eluveitie'
+tp140
+a(lp141
+aa(lp142
+(S'Eric Prydz Presents Pryda (EMI [8390009459]) WEB - 2012'
+I0
+S'/home/shroomin/Music/Music/Eric Prydz Presents Pryda (EMI [8390009459]) WEB - 2012'
+tp143
+a(lp144
+aa(lp145
+(S'etc'
+I0
+S'/home/shroomin/Music/Music/etc'
+tp146
+a(lp147
+aa(lp148
+(S'Example - 2012 - The Evolution Of Man (2CD Deluxe Version) [MP3]'
+I0
+S'/home/shroomin/Music/Music/Example - 2012 - The Evolution Of Man (2CD Deluxe Version) [MP3]'
+tp149
+a(lp150
+aa(lp151
+(S'Faith No More'
+I0
+S'/home/shroomin/Music/Music/Faith No More'
+tp152
+a(lp153
+aa(lp154
+(S'First Aid Kit'
+I0
+S'/home/shroomin/Music/Music/First Aid Kit'
+tp155
+a(lp156
+aa(lp157
+(S'Fluke'
+I0
+S'/home/shroomin/Music/Music/Fluke'
+tp158
+a(lp159
+aa(lp160
+(S'Globus'
+I0
+S'/home/shroomin/Music/Music/Globus'
+tp161
+a(lp162
+aa(lp163
+(S'GusGus'
+I0
+S'/home/shroomin/Music/Music/GusGus'
+tp164
+a(lp165
+aa(lp166
+(S'Hammerfall'
+I0
+S'/home/shroomin/Music/Music/Hammerfall'
+tp167
+a(lp168
+aa(lp169
+(S'Iced Earth'
+I0
+S'/home/shroomin/Music/Music/Iced Earth'
+tp170
+a(lp171
+aa(lp172
+(S'Infected Mushroom'
+I0
+S'/home/shroomin/Music/Music/Infected Mushroom'
+tp173
+a(lp174
+aa(lp175
+(S'Iron Maiden'
+I0
+S'/home/shroomin/Music/Music/Iron Maiden'
+tp176
+a(lp177
+aa(lp178
+(S'Jethro Tull - The Very Best Of .www.lokotorrents.com'
+I0
+S'/home/shroomin/Music/Music/Jethro Tull - The Very Best Of .www.lokotorrents.com'
+tp179
+a(lp180
+aa(lp181
+(S'Jimi Hendrix - 20th Century Masters The Best Of Jimi Hendrix (2007) vtwin88cube'
+I0
+S'/home/shroomin/Music/Music/Jimi Hendrix - 20th Century Masters The Best Of Jimi Hendrix (2007) vtwin88cube'
+tp182
+a(lp183
+aa(lp184
+(S'John_Frusciante-Inside_Of_Emptiness-2004-RNS'
+I0
+S'/home/shroomin/Music/Music/John_Frusciante-Inside_Of_Emptiness-2004-RNS'
+tp185
+a(lp186
+aa(lp187
+(S'Judas Priest'
+I0
+S'/home/shroomin/Music/Music/Judas Priest'
+tp188
+a(lp189
+aa(lp190
+(S'Juno Reactor - Complete Discography (1992-2004)'
+I0
+S'/home/shroomin/Music/Music/Juno Reactor - Complete Discography (1992-2004)'
+tp191
+a(lp192
+aa(lp193
+(S'Kaskade - Fire &amp; Ice (Ultra Records [UL2984-2]) - 2011'
+I0
+S'/home/shroomin/Music/Music/Kaskade - Fire & Ice (Ultra Records [UL2984-2]) - 2011'
+tp194
+a(lp195
+aa(lp196
+(S'Korn-The Path Of Totality Special Edition(2011)MP3 Nlt-release'
+I0
+S'/home/shroomin/Music/Music/Korn-The Path Of Totality Special Edition(2011)MP3 Nlt-release'
+tp197
+a(lp198
+aa(lp199
+(S'Korpiklaani'
+I0
+S'/home/shroomin/Music/Music/Korpiklaani'
+tp200
+a(lp201
+aa(lp202
+(S'Lamat_-_V-2011-MYCEL'
+I0
+S'/home/shroomin/Music/Music/Lamat_-_V-2011-MYCEL'
+tp203
+a(lp204
+aa(lp205
+(S'Leaves Eyes'
+I0
+S'/home/shroomin/Music/Music/Leaves Eyes'
+tp206
+a(lp207
+aa(lp208
+(S'Machine Head'
+I0
+S'/home/shroomin/Music/Music/Machine Head'
+tp209
+a(lp210
+aa(lp211
+(S'MDB'
+I0
+S'/home/shroomin/Music/Music/MDB'
+tp212
+a(lp213
+aa(lp214
+(S'Metallica'
+I0
+S'/home/shroomin/Music/Music/Metallica'
+tp215
+a(lp216
+aa(lp217
+(S'Mindless Self Indulgence'
+I0
+S'/home/shroomin/Music/Music/Mindless Self Indulgence'
+tp218
+a(lp219
+aa(lp220
+(S'Ministry Of Sound - Marbella Sessions 2013 (320kbps) (AciDToX8)'
+I0
+S'/home/shroomin/Music/Music/Ministry Of Sound - Marbella Sessions 2013 (320kbps) (AciDToX8)'
+tp221
+a(lp222
+aa(lp223
+(S'Ministry of Sound - The Annual 2013 (Australia)'
+I0
+S'/home/shroomin/Music/Music/Ministry of Sound - The Annual 2013 (Australia)'
+tp224
+a(lp225
+aa(lp226
+(S'Muse'
+I0
+S'/home/shroomin/Music/Music/Muse'
+tp227
+a(lp228
+aa(lp229
+(S'MY MORNING JACKET - DISCOGRAPHY [CHANNEL NEO]'
+I0
+S'/home/shroomin/Music/Music/MY MORNING JACKET - DISCOGRAPHY [CHANNEL NEO]'
+tp230
+a(lp231
+aa(lp232
+(S'Nightwish'
+I0
+S'/home/shroomin/Music/Music/Nightwish'
+tp233
+a(lp234
+aa(lp235
+(S'NIN'
+I0
+S'/home/shroomin/Music/Music/NIN'
+tp236
+a(lp237
+aa(lp238
+(S'Nine Inch Nails - Greatest Hits [2CD, Star Mark] - 2008'
+I0
+S'/home/shroomin/Music/Music/Nine Inch Nails - Greatest Hits [2CD, Star Mark] - 2008'
+tp239
+a(lp240
+aa(lp241
+(S'Nirvana - Nevermind (1991) [CDRip] 320 vtwin88cube'
+I0
+S'/home/shroomin/Music/Music/Nirvana - Nevermind (1991) [CDRip] 320 vtwin88cube'
+tp242
+a(lp243
+aa(lp244
+(S'Now Thats What I Call Music 82 (2012) - 2CD [tL]'
+I0
+S'/home/shroomin/Music/Music/Now Thats What I Call Music 82 (2012) - 2CD [tL]'
+tp245
+a(lp246
+aa(lp247
+(S'Oliver Koletzki - Grosstadtmarchen 2 (2012)'
+I0
+S'/home/shroomin/Music/Music/Oliver Koletzki - Grosstadtmarchen 2 (2012)'
+tp248
+a(lp249
+aa(lp250
+(S'Opeth'
+I0
+S'/home/shroomin/Music/Music/Opeth'
+tp251
+a(lp252
+aa(lp253
+(S'Paul Kalkbrenner - Berlin Calling'
+I0
+S'/home/shroomin/Music/Music/Paul Kalkbrenner - Berlin Calling'
+tp254
+a(lp255
+aa(lp256
+(S'Paul Leonard-Morgan - Dredd (2012) [MP3]'
+I0
+S'/home/shroomin/Music/Music/Paul Leonard-Morgan - Dredd (2012) [MP3]'
+tp257
+a(lp258
+aa(lp259
+(S'Pet Shop Boys'
+I0
+S'/home/shroomin/Music/Music/Pet Shop Boys'
+tp260
+a(lp261
+aa(lp262
+(S'Pink_Floyd_Greatest_Hits.www.lokotorrents.com'
+I0
+S'/home/shroomin/Music/Music/Pink_Floyd_Greatest_Hits.www.lokotorrents.com'
+tp263
+a(lp264
+aa(lp265
+(S'PrettyLights-BT'
+I0
+S'/home/shroomin/Music/Music/PrettyLights-BT'
+tp266
+a(lp267
+aa(lp268
+(S'Red Hot Chili Peppers - Greatest Hits - 2003 [MP3 @ 320] (oan)'
+I0
+S'/home/shroomin/Music/Music/Red Hot Chili Peppers - Greatest Hits - 2003 [MP3 @ 320] (oan)'
+tp269
+a(lp270
+aa(lp271
+(S'RHCP'
+I0
+S'/home/shroomin/Music/Music/RHCP'
+tp272
+a(lp273
+aa(lp274
+(S'R\xc3\xb6yksopp'
+I0
+S'/home/shroomin/Music/Music/R\xc3\xb6yksopp'
+tp275
+a(lp276
+aa(lp277
+(S'Sensorica'
+I0
+S'/home/shroomin/Music/Music/Sensorica'
+tp278
+a(lp279
+aa(lp280
+(S'Sensorica - (2007, 2008)'
+I0
+S'/home/shroomin/Music/Music/Sensorica - (2007, 2008)'
+tp281
+a(lp282
+aa(lp283
+(S'Skinny Puppy'
+I0
+S'/home/shroomin/Music/Music/Skinny Puppy'
+tp284
+a(lp285
+aa(lp286
+(S'Solarsoul'
+I0
+S'/home/shroomin/Music/Music/Solarsoul'
+tp287
+a(lp288
+aa(lp289
+(S'Solarstone-Solarstone_Collected_Vol_1-ARDI3177-WEB-2012-TraX'
+I0
+S'/home/shroomin/Music/Music/Solarstone-Solarstone_Collected_Vol_1-ARDI3177-WEB-2012-TraX'
+tp290
+a(lp291
+aa(lp292
+(S'Sonata Arctica - FULL Discography'
+I0
+S'/home/shroomin/Music/Music/Sonata Arctica - FULL Discography'
+tp293
+a(lp294
+aa(lp295
+(S'Star One - Victims Of The Modern Age (Limited Edition) 2010 (320 kbps)'
+I0
+S'/home/shroomin/Music/Music/Star One - Victims Of The Modern Age (Limited Edition) 2010 (320 kbps)'
+tp296
+a(lp297
+aa(lp298
+(S'Steven Sharp Nelson'
+I0
+S'/home/shroomin/Music/Music/Steven Sharp Nelson'
+tp299
+a(lp300
+aa(lp301
+(S'Sting'
+I0
+S'/home/shroomin/Music/Music/Sting'
+tp302
+a(lp303
+aa(lp304
+(S'Swedish House Mafia'
+I0
+S'/home/shroomin/Music/Music/Swedish House Mafia'
+tp305
+a(lp306
+aa(lp307
+(S'Symphony X'
+I0
+S'/home/shroomin/Music/Music/Symphony X'
+tp308
+a(lp309
+aa(lp310
+(S'Talamasca - Obsessive Dream (2CD)'
+I0
+S'/home/shroomin/Music/Music/Talamasca - Obsessive Dream (2CD)'
+tp311
+a(lp312
+aa(lp313
+(S'The Beatles [2009] Greatest Hits CDRip [Remastered][Bubanee]'
+I0
+S'/home/shroomin/Music/Music/The Beatles [2009] Greatest Hits CDRip [Remastered][Bubanee]'
+tp314
+a(lp315
+aa(lp316
+(S"The best hits of 90's[torrents.ru]"
+I0
+S"/home/shroomin/Music/Music/The best hits of 90's[torrents.ru]"
+tp317
+a(lp318
+aa(lp319
+(S'The Black Keys'
+I0
+S'/home/shroomin/Music/Music/The Black Keys'
+tp320
+a(lp321
+aa(lp322
+(S'The Cranberries - Greatest Hits [2008]'
+I0
+S'/home/shroomin/Music/Music/The Cranberries - Greatest Hits [2008]'
+tp323
+a(lp324
+aa(lp325
+(S'The Piano Guys'
+I0
+S'/home/shroomin/Music/Music/The Piano Guys'
+tp326
+a(lp327
+aa(lp328
+(S'The Raconteurs'
+I0
+S'/home/shroomin/Music/Music/The Raconteurs'
+tp329
+a(lp330
+aa(lp331
+(S'Theatre Of Tragedy'
+I0
+S'/home/shroomin/Music/Music/Theatre Of Tragedy'
+tp332
+a(lp333
+aa(lp334
+(S'Therion'
+I0
+S'/home/shroomin/Music/Music/Therion'
+tp335
+a(lp336
+aa(lp337
+(S'Thomas Bergersen - Illusions (2011)'
+I0
+S'/home/shroomin/Music/Music/Thomas Bergersen - Illusions (2011)'
+tp338
+a(lp339
+aa(lp340
+(S'Trance 100 2013 Vol. 1 (Inspiron)'
+I0
+S'/home/shroomin/Music/Music/Trance 100 2013 Vol. 1 (Inspiron)'
+tp341
+a(lp342
+aa(lp343
+(S'Trance Top 40  Best Of 2010 320KB TBS (Spookkie)'
+I0
+S'/home/shroomin/Music/Music/Trance Top 40  Best Of 2010 320KB TBS (Spookkie)'
+tp344
+a(lp345
+aa(lp346
+(S'Triple J Hottest 100 of 2010'
+I0
+S'/home/shroomin/Music/Music/Triple J Hottest 100 of 2010'
+tp347
+a(lp348
+aa(lp349
+(S'Triple J Hottest 100 of 2011'
+I0
+S'/home/shroomin/Music/Music/Triple J Hottest 100 of 2011'
+tp350
+a(lp351
+aa(lp352
+(S'Triple J Hottest 2012'
+I0
+S'/home/shroomin/Music/Music/Triple J Hottest 2012'
+tp353
+a(lp354
+aa(lp355
+(S"Triple J's Hottest 100 20 Years 1-100 [2013] 320kbps mp3 [sween64]"
+I0
+S"/home/shroomin/Music/Music/Triple J's Hottest 100 20 Years 1-100 [2013] 320kbps mp3 [sween64]"
+tp356
+a(lp357
+aa(lp358
+(S'Tristania'
+I0
+S'/home/shroomin/Music/Music/Tristania'
+tp359
+a(lp360
+aa(lp361
+(S'V.A. - Pulse Vols.1-12 (1996-2002)'
+I0
+S'/home/shroomin/Music/Music/V.A. - Pulse Vols.1-12 (1996-2002)'
+tp362
+a(lp363
+aa(lp364
+(S'VA'
+I0
+S'/home/shroomin/Music/Music/VA'
+tp365
+a(lp366
+aa(lp367
+(S'VA - 40 Winter Trance Hits 2012 (Armada Music [ARDI2465]) WEB - 2011'
+I0
+S'/home/shroomin/Music/Music/VA - 40 Winter Trance Hits 2012 (Armada Music [ARDI2465]) WEB - 2011'
+tp368
+a(lp369
+aa(lp370
+(S'VA - Addicted To Bass 2013 @ Ministry Of Sound (2013) 3CD'
+I0
+S'/home/shroomin/Music/Music/VA - Addicted To Bass 2013 @ Ministry Of Sound (2013) 3CD'
+tp371
+a(lp372
+aa(lp373
+(S"VA - Armin van Buuren's - A State Of Trance Radio Top 20 (Top 15)"
+I0
+S"/home/shroomin/Music/Music/VA - Armin van Buuren's - A State Of Trance Radio Top 20 (Top 15)"
+tp374
+a(lp375
+aa(lp376
+(S'VA - Balance 005 James Holden'
+I0
+S'/home/shroomin/Music/Music/VA - Balance 005 James Holden'
+tp377
+a(lp378
+aa(lp379
+(S'VA - Hed Kandi Beach House 2012 (HEDK121E) WEB - 2012 (320 kbps)'
+I0
+S'/home/shroomin/Music/Music/VA - Hed Kandi Beach House 2012 (HEDK121E) WEB - 2012 (320 kbps)'
+tp380
+a(lp381
+aa(lp382
+(S'VA - House Family 13-2007'
+I0
+S'/home/shroomin/Music/Music/VA - House Family 13-2007'
+tp383
+a(lp384
+aa(lp385
+(S'VA - Just Dance 2011 Top 40 Club Electro &amp; House Tracks (W2M 579-X01) WEB - 2010'
+I0
+S'/home/shroomin/Music/Music/VA - Just Dance 2011 Top 40 Club Electro & House Tracks (W2M 579-X01) WEB - 2010'
+tp386
+a(lp387
+aa(lp388
+(S'VA - Ministry Of Sound - Superstar DJs (3 CD) [2013]'
+I0
+S'/home/shroomin/Music/Music/VA - Ministry Of Sound - Superstar DJs (3 CD) [2013]'
+tp389
+a(lp390
+aa(lp391
+(S'VA - Ministry of Sound - The Chillout Session (2012)'
+I0
+S'/home/shroomin/Music/Music/VA - Ministry of Sound - The Chillout Session (2012)'
+tp392
+a(lp393
+aa(lp394
+(S'VA - Ministry Of Sound @ Chilled House Session 2013 (2013) MP3'
+I0
+S'/home/shroomin/Music/Music/VA - Ministry Of Sound @ Chilled House Session 2013 (2013) MP3'
+tp395
+a(lp396
+aa(lp397
+(S'VA - Ministry Of Sound Running Trax Mash Up 2CD (2012) [320 kbps]'
+I0
+S'/home/shroomin/Music/Music/VA - Ministry Of Sound Running Trax Mash Up 2CD (2012) [320 kbps]'
+tp398
+a(lp399
+aa(lp400
+(S'VA - Ministry Of Sound The Sound Of Deep House (2013)'
+I0
+S'/home/shroomin/Music/Music/VA - Ministry Of Sound The Sound Of Deep House (2013)'
+tp401
+a(lp402
+aa(lp403
+(S'VA - Ministry Of Sound_Deep House (Ministry of Sound [MOS135DE]) WEB - 2012'
+I0
+S'/home/shroomin/Music/Music/VA - Ministry Of Sound_Deep House (Ministry of Sound [MOS135DE]) WEB - 2012'
+tp404
+a(lp405
+aa(lp406
+(S'VA - Ministry of Sound_Louder! 2012 (Ministry of Sound) WEB - 2012'
+I0
+S'/home/shroomin/Music/Music/VA - Ministry of Sound_Louder! 2012 (Ministry of Sound) WEB - 2012'
+tp407
+a(lp408
+aa(lp409
+(S'VA - Scott Pilgrim vs The World Original Soundtrack - NemDam'
+I0
+S'/home/shroomin/Music/Music/VA - Scott Pilgrim vs The World Original Soundtrack - NemDam'
+tp410
+a(lp411
+aa(lp412
+(S'VA - Secret Transmission_Compiled By Ganeisha (Nexus Media [NEXUSDIG009]) WEB - 2011'
+I0
+S'/home/shroomin/Music/Music/VA - Secret Transmission_Compiled By Ganeisha (Nexus Media [NEXUSDIG009]) WEB - 2011'
+tp413
+a(lp414
+aa(lp415
+(S'VA - The Sound of Dubstep - Worldwide'
+I0
+S'/home/shroomin/Music/Music/VA - The Sound of Dubstep - Worldwide'
+tp416
+a(lp417
+aa(lp418
+(S'VA-A_State_Of_Trance_Future_Favorite_Best_Of_2011-(ARDI2515)-WEB-2011-wAx'
+I0
+S'/home/shroomin/Music/Music/VA-A_State_Of_Trance_Future_Favorite_Best_Of_2011-(ARDI2515)-WEB-2011-wAx'
+tp419
+a(lp420
+aa(lp421
+(S'VA-Hed Kandi Deep House(2012) MP3 NLT'
+I0
+S'/home/shroomin/Music/Music/VA-Hed Kandi Deep House(2012) MP3 NLT'
+tp422
+a(lp423
+aa(lp424
+(S'VA-Ministry Of Sound Anthems 90s-2012-P2P'
+I0
+S'/home/shroomin/Music/Music/VA-Ministry Of Sound Anthems 90s-2012-P2P'
+tp425
+a(lp426
+aa(lp427
+(S'VA-Sucker_Punch_(Original_Motion_Picture_Soundtrack)-(2011)'
+I0
+S'/home/shroomin/Music/Music/VA-Sucker_Punch_(Original_Motion_Picture_Soundtrack)-(2011)'
+tp428
+a(lp429
+aa(lp430
+(S'VA-Trance_Top_40_Best_Of_2009-(ARDI1397)-WEB-2010-SSR'
+I0
+S'/home/shroomin/Music/Music/VA-Trance_Top_40_Best_Of_2009-(ARDI1397)-WEB-2010-SSR'
+tp431
+a(lp432
+aa(lp433
+(S'Van Canto'
+I0
+S'/home/shroomin/Music/Music/Van Canto'
+tp434
+a(lp435
+aa(lp436
+(S'Various Artists - Django Unchained (Original Motion Picture Soundtrack) (iTunes Version) 2012 OST 320kbps CBR MP3 [VX] [P2PDL]'
+I0
+S'/home/shroomin/Music/Music/Various Artists - Django Unchained (Original Motion Picture Soundtrack) (iTunes Version) 2012 OST 320kbps CBR MP3 [VX] [P2PDL]'
+tp437
+a(lp438
+aa(lp439
+(S'Within Temptation'
+I0
+S'/home/shroomin/Music/Music/Within Temptation'
+tp440
+a(lp441
+aa(lp442
+(S'zircon - Antigravity'
+I0
+S'/home/shroomin/Music/Music/zircon - Antigravity'
+tp443
+a(lp444
+aa(lp445
+(S'zircon - Identity Sequence'
+I0
+S'/home/shroomin/Music/Music/zircon - Identity Sequence'
+tp446
+a(lp447
+aa(lp448
+(S'07. Anders Manga - Heart Of Black.mp3'
+I1
+S'/home/shroomin/Music/Music/07. Anders Manga - Heart Of Black.mp3'
+tp449
+aNaa(lp450
+(S'amy_macdonald_-_this_is_the_life.mp3'
+I1
+S'/home/shroomin/Music/Music/amy_macdonald_-_this_is_the_life.mp3'
+tp451
+aNaa(lp452
+(S'Anders Manga - There Will Be Blood.mp3'
+I1
+S'/home/shroomin/Music/Music/Anders Manga - There Will Be Blood.mp3'
+tp453
+aNaa(lp454
+(S'Celia - My Story.mp3'
+I1
+S'/home/shroomin/Music/Music/Celia - My Story.mp3'
+tp455
+aNaa(lp456
+(S'delerium_-_silence_dj_tiesto_mix.mp3'
+I1
+S'/home/shroomin/Music/Music/delerium_-_silence_dj_tiesto_mix.mp3'
+tp457
+aNaa(lp458
+(S'Diogrimonologitocriastataliantamogostischen.wav'
+I1
+S'/home/shroomin/Music/Music/Diogrimonologitocriastataliantamogostischen.wav'
+tp459
+aNaa(lp460
+(S'fck.mp3'
+I1
+S'/home/shroomin/Music/Music/fck.mp3'
+tp461
+aNaa(lp462
+(S'snow_patrol_-_set_down_your_glass.mp3'
+I1
+S'/home/shroomin/Music/Music/snow_patrol_-_set_down_your_glass.mp3'
+tp463
+aNaaaaaa(lp464
+(S'Pictures'
+I0
+S'/home/shroomin/Pictures'
+tp465
+aNaa(lp466
+(S'Public'
+I0
+S'/home/shroomin/Public'
+tp467
+aNaa(lp468
+(S'Templates'
+I0
+S'/home/shroomin/Templates'
+tp469
+aNaa(lp470
+(S'Videos'
+I0
+S'/home/shroomin/Videos'
+tp471
+aNaasS'selected-paths'
+p472
+(lp473
+(I5
+I0
+I104
+tp474
+asS'vscrollbar-pos'
+p475
+F3375
+sssS'AutoResume_was-paused'
+p476
+I00
+sS'gui.mainWindow_win-is-maximized'
+p477
+I00
+sS'Explorer_last-explorer'
+p478
+(S'File Explorer'
+S'Home'
+tp479
+sS'gui.preferences_win-width'
+p480
+I679
+sS'gui.preferences_win-height'
+p481
+I727
+sS'gui.mainWindow_full-win-height'
+p482
+I727
+sS'__main___first-time'
+p483
+I00
+sS'CtrlPanel_volume'
+p484
+F0.65000000000000002
+sS'gui.mainWindow_win-width'
+p485
+I1362
+sS'FileExplorer_add-by-filename'
+p486
+I00
+sS'AutoResume_track'
+p487
+NsS'gui.mainWindow_view-mode'
+p488
+I0
+s.

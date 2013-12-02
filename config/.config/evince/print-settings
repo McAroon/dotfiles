@@ -1,0 +1,37 @@
+[Print Settings]
+cover-after=none
+print-at=now
+resolution=300
+print-at-time=
+resolution-x=300
+resolution-y=300
+cups-job-sheets=none,none
+duplex=simplex
+evince-print-setting-page-size=false
+cups-InputSlot=Internal
+cups-Duplex=None
+cups-job-priority=50
+default-source=Internal
+evince-print-setting-page-autorotate=true
+cups-Resolution=300dpi
+evince-print-setting-page-scale=1
+cover-before=none
+printer=Kyocera_FS-1120D
+cups-number-up=1
+
+cups-KCEcoprint=Off
+cups-KCCollate=PrnDef
+media-type=PrnDef
+cups-MediaType=PrnDef
+cups-Smoothing=Medium
+
+[Page Setup]
+PPDName=A4
+DisplayName=A4
+Width=210
+Height=297
+MarginTop=6.3499999999999996
+MarginBottom=14.224
+MarginLeft=6.3499999999999996
+MarginRight=6.3499999999999996
+Orientation=portrait

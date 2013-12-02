@@ -1,0 +1,200 @@
+(lp1
+S"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/67\x00Breezeblocks.mp3 1 file 2 67 3 Breezeblocks 4 alt-J\x00(\xe2\x88\x86) 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 227 10 2013 12 1 13 99 14 320000 15 1 16 44100"
+p2
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/81\x00Big\x00Jet\x00Plane.mp3 1 file 2 81 3 Big\x00Jet\x00Plane 4 Angus\x00&\x00Julia\x00Stone 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 224 10 2013 12 2 13 99 14 320000 15 1 16 44100"
+p3
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/79\x00I\x00Bet\x00You\x00Look\x00Good\x00On\x00The\x00Dancef.mp3 1 file 2 79 3 I\x00Bet\x00You\x00Look\x00Good\x00On\x00The\x00Dancefloor 4 Arctic\x00Monkeys 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 174 7 Arctic\x00Monkeys 9 Other 10 2013 12 3 13 99 14 320000 16 48000"
+p4
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/24\x00One\x00Crowded\x00Hour.mp3 1 file 2 24 3 One\x00Crowded\x00Hour 4 Augie\x00March 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 290 8 0 10 2013 12 4 13 99 14 320000 15 1 16 44100"
+p5
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/37\x00Sabotage.mp3 1 file 2 37 3 Sabotage 4 Beastie\x00Boys 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 178 10 2013 12 5 13 99 14 320000 16 44100"
+p6
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/100\x00Intergalactic.mp3 1 file 2 100 3 Intergalactic 4 Beastie\x00Boys 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 210 10 2013 12 6 13 99 14 320000 16 44100"
+p7
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/34\x00Brick.mp3 1 file 2 34 3 Brick 4 Ben\x00Folds 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 285 10 2013 12 7 13 99 14 320000 16 44100"
+p8
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/95\x00Cigarettes\x00Will\x00Kill\x00You.mp3 1 file 2 95 3 Cigarettes\x00Will\x00Kill\x00You 4 Ben\x00Lee 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 230 10 2013 12 8 13 99 14 320000 15 1 16 44100"
+p9
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/19\x00Dammit.mp3 1 file 2 19 3 Dammit 4 Blink-182 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 168 10 2013 12 9 13 99 14 320000 16 44100"
+p10
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/57\x00Banquet.mp3 1 file 2 57 3 Banquet 4 Bloc\x00Party 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 201 10 2013 12 10 13 99 14 320000 15 1 16 44100"
+p11
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/22\x00Song\x002.mp3 1 file 2 22 3 Song\x002 4 Blur 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 122 10 2013 12 11 13 99 14 320000 15 1 16 44100"
+p12
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/16\x00Skinny\x00Love.mp3 1 file 2 16 3 Skinny\x00Love 4 Bon\x00Iver 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 238 10 2013 12 12 13 99 14 320000 15 1 16 44100"
+p13
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/60\x00Glycerine.mp3 1 file 2 60 3 Glycerine 4 Bush 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 266 10 2013 12 13 13 99 14 320000 15 1 16 44100"
+p14
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/41\x00Yellow.mp3 1 file 2 41 3 Yellow 4 Coldplay 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 269 10 2013 12 14 13 99 14 320000 16 44100"
+p15
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/85\x00Gangsta's\x00Paradise.mp3 1 file 2 85 3 Gangsta's\x00Paradise 4 Coolio 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 219 10 2013 12 15 13 99 14 320000 16 44100"
+p16
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/44\x00One\x00More\x00Time.mp3 1 file 2 44 3 One\x00More\x00Time 4 Daft\x00Punk 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 321 10 2013 12 16 13 99 14 320000 16 44100"
+p17
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/59\x00Around\x00The\x00World.mp3 1 file 2 59 3 Around\x00The\x00World 4 Daft\x00Punk 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 430 10 2013 12 17 13 99 14 320000 16 44100"
+p18
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/65\x00Harder,\x00Better,\x00Faster,\x00Stronger.mp3 1 file 2 65 3 Harder,\x00Better,\x00Faster,\x00Stronger 4 Daft\x00Punk 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 224 10 2013 12 18 13 99 14 320000 16 44100"
+p19
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/73\x00Home.mp3 1 file 2 73 3 Home 4 Edward\x00Sharpe\x00&\x00The\x00Magnetic\x00Zeros 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 302 10 2013 12 19 13 99 14 320000 16 44100"
+p20
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/69\x00Lose\x00Yourself.mp3 1 file 2 69 3 Lose\x00Yourself 4 Eminem 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 326 10 2013 12 20 13 99 14 320000 15 1 16 44100"
+p21
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/55\x00Praise\x00You.mp3 1 file 2 55 3 Praise\x00You 4 Fatboy\x00Slim 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 226 10 2013 12 21 13 99 14 320000 15 1 16 44100"
+p22
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/06\x00Everlong.mp3 1 file 2 6 3 Everlong 4 Foo\x00Fighters 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 251 10 2013 12 22 13 99 14 320000 16 44100"
+p23
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/94\x00Pumped\x00Up\x00Kicks.mp3 1 file 2 94 3 Pumped\x00Up\x00Kicks 4 Foster\x00the\x00People 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 260 10 2013 12 23 13 99 14 320000 15 1 16 44100"
+p24
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/29\x00Take\x00Me\x00Out.mp3 1 file 2 29 3 Take\x00Me\x00Out 4 Franz\x00Ferdinand 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 237 10 2013 12 24 13 99 14 320000 16 44100"
+p25
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/52\x00Feel\x00Good\x00Inc..mp3 1 file 2 52 3 Feel\x00Good\x00Inc. 4 Gorillaz 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 221 10 2013 12 25 13 99 14 320000 16 44100"
+p26
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/71\x00Clint\x00Eastwood.mp3 1 file 2 71 3 Clint\x00Eastwood 4 Gorillaz 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 342 10 2013 12 26 13 99 14 320000 16 44100"
+p27
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/09\x00Somebody\x00That\x00I\x00Used\x00To\x00Know.mp3 1 file 2 9 3 Somebody\x00That\x00I\x00Used\x00To\x00Know 4 Gotye 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 245 10 2013 12 27 13 99 14 320000 15 1 16 44100"
+p28
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/12\x00Hearts\x00A\x00Mess.mp3 1 file 2 12 3 Hearts\x00A\x00Mess 4 Gotye 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 366 10 2013 12 28 13 99 14 320000 16 44100"
+p29
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/63\x00Chemical\x00Heart.mp3 1 file 2 63 3 Chemical\x00Heart 4 Grinspoon 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 280 10 2013 12 29 13 99 14 320000 16 44100"
+p30
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/04\x00The\x00Nosebleed\x00Section.mp3 1 file 2 4 3 The\x00Nosebleed\x00Section 4 Hilltop\x00Hoods 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 220 8 0 10 2013 12 30 13 99 14 320000 15 1 16 44100"
+p31
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/91\x00Harpoon.mp3 1 file 2 91 3 Harpoon 4 Jebediah 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 268 10 2013 12 31 13 99 14 320000 15 1 16 44100"
+p32
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/98\x00Leaving\x00Home.mp3 1 file 2 98 3 Leaving\x00Home 4 Jebediah 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 181 10 2013 12 32 13 99 14 320000 15 1 16 44100"
+p33
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/03\x00Last\x00Goodbye.mp3 1 file 2 3 3 Last\x00Goodbye 4 Jeff\x00Buckley 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 278 10 2013 12 33 13 99 14 320000 15 1 16 44100"
+p34
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/36\x00Hallelujah.mp3 1 file 2 36 3 Hallelujah 4 Jeff\x00Buckley 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 413 10 2013 12 34 13 99 14 320000 16 44100"
+p35
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/68\x00Are\x00You\x00Gonna\x00Be\x00My\x00Girl.mp3 1 file 2 68 3 Are\x00You\x00Gonna\x00Be\x00My\x00Girl 4 JET 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 214 10 2013 12 35 13 99 14 320000 16 44100"
+p36
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/84\x00Gold\x00Digger\x00[Feat.\x00Jamie\x00Foxx].mp3 1 file 2 84 3 Gold\x00Digger\x00[Feat.\x00Jamie\x00Foxx] 4 Kanye\x00West 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 208 10 2013 12 36 13 99 14 320000 15 1 16 44100"
+p37
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/54\x00Sex\x00On\x00Fire.mp3 1 file 2 54 3 Sex\x00On\x00Fire 4 Kings\x00Of\x00Leon 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 203 10 2013 12 37 13 99 14 320000 16 44100"
+p38
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/99\x00Video\x00Games.mp3 1 file 2 99 3 Video\x00Games 4 Lana\x00Del\x00Rey 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 287 10 2013 12 38 13 99 14 320000 15 1 16 44100"
+p39
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/97\x00Paper\x00Planes.mp3 1 file 2 97 3 Paper\x00Planes 4 M.I.A. 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 205 10 2013 12 39 13 99 14 320000 16 44100"
+p40
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/31\x00Teardrop.mp3 1 file 2 31 3 Teardrop 4 Massive\x00Attack 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 331 10 2013 12 40 13 99 14 320000 15 1 16 44100"
+p41
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/42\x00Brother.mp3 1 file 2 42 3 Brother 4 Matt\x00Corby 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 254 10 2013 12 41 13 99 14 320000 15 1 16 44100"
+p42
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/64\x00Kids.mp3 1 file 2 64 3 Kids 4 MGMT 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 303 10 2013 12 42 13 99 14 320000 16 44100"
+p43
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/76\x00Electric\x00Feel.mp3 1 file 2 76 3 Electric\x00Feel 4 MGMT 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 229 10 2013 12 43 13 99 14 320000 16 44100"
+p44
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/45\x00Float\x00On.mp3 1 file 2 45 3 Float\x00On 4 Modest\x00Mouse 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 209 10 2013 12 44 13 99 14 320000 16 44100"
+p45
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/14\x00Little\x00Lion\x00Man.mp3 1 file 2 14 3 Little\x00Lion\x00Man 4 Mumford\x00&\x00Sons 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 247 10 2013 12 45 13 99 14 320000 16 44100"
+p46
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/23\x00Knights\x00Of\x00Cydonia.mp3 1 file 2 23 3 Knights\x00Of\x00Cydonia 4 Muse 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 369 10 2013 12 46 13 99 14 320000 16 44100"
+p47
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/46\x00Into\x00My\x00Arms.mp3 1 file 2 46 3 Into\x00My\x00Arms 4 Nick\x00Cave\x00&\x00The\x00Bad\x00Seeds 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 255 10 2013 12 47 13 99 14 320000 16 44100"
+p48
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/40\x00Closer.mp3 1 file 2 40 3 Closer 4 Nine\x00Inch\x00Nails 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 373 10 2013 12 48 13 99 14 320000 16 44100"
+p49
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/39\x00Heart\x00Shaped\x00Box.mp3 1 file 2 39 3 Heart\x00Shaped\x00Box 4 Nirvana 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 282 10 2013 12 49 13 99 14 320000 16 44100"
+p50
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/01\x00Wonderwall.mp3 1 file 2 1 3 Wonderwall 4 Oasis 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 259 10 2013 12 50 13 99 14 320000 16 44100"
+p51
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/92\x00Little\x00Talks.mp3 1 file 2 92 3 Little\x00Talks 4 Of\x00Monsters\x00and\x00Men 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 267 10 2013 12 51 13 99 14 320000 15 1 16 44100"
+p52
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/18\x00Hey\x00Ya!.mp3 1 file 2 18 3 Hey\x00Ya! 4 Outkast 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 235 10 2013 12 52 13 99 14 320000 15 1 16 44100"
+p53
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/50\x00Better\x00Man.mp3 1 file 2 50 3 Better\x00Man 4 Pearl\x00Jam 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 268 10 2013 12 53 13 99 14 320000 16 44100"
+p54
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/53\x00Every\x00You\x00Every\x00Me.mp3 1 file 2 53 3 Every\x00You\x00Every\x00Me 4 Placebo 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 214 10 2013 12 54 13 99 14 320000 15 1 16 44100"
+p55
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/08\x00These\x00Days.mp3 1 file 2 8 3 These\x00Days 4 Powderfinger 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 299 10 2013 12 55 13 99 14 320000 16 44100"
+p56
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/10\x00My\x00Happiness.mp3 1 file 2 10 3 My\x00Happiness 4 Powderfinger 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 277 10 2013 12 56 13 99 14 320000 16 44100"
+p57
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/83\x00Common\x00People.mp3 1 file 2 83 3 Common\x00People 4 Pulp 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 351 10 2013 12 57 13 99 14 320000 15 1 16 44100"
+p58
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/11\x00No\x00One\x00Knows.mp3 1 file 2 11 3 No\x00One\x00Knows 4 Queens\x00Of\x00The\x00Stone\x00Age 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 279 10 2013 12 58 13 99 14 320000 16 44100"
+p59
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/13\x00Paranoid\x00Android.mp3 1 file 2 13 3 Paranoid\x00Android 4 Radiohead 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 384 10 2013 12 59 13 99 14 320000 16 44100"
+p60
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/35\x00Karma\x00Police.mp3 1 file 2 35 3 Karma\x00Police 4 Radiohead 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 262 10 2013 12 60 13 99 14 320000 16 44100"
+p61
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/80\x00Bulls\x00on\x00Parade.mp3 1 file 2 80 3 Bulls\x00on\x00Parade 4 Rage\x00Against\x00the\x00Machine 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 231 10 2013 12 61 13 99 14 320000 15 1 16 44100"
+p62
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/28\x00Scar\x00Tissue.mp3 1 file 2 28 3 Scar\x00Tissue 4 Red\x00Hot\x00Chili\x00Peppers 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 216 10 2013 12 62 13 99 14 320000 15 1 16 48000"
+p63
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/30\x00Californication.mp3 1 file 2 30 3 Californication 4 Red\x00Hot\x00Chili\x00Peppers 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 329 10 2013 12 63 13 99 14 320000 15 1 16 48000"
+p64
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/70\x00!\x00(The\x00Song\x00Formerly\x00Known\x00As).mp3 1 file 2 70 3 !\x00(The\x00Song\x00Formerly\x00Known\x00As) 4 Regurgitator 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 208 10 2013 12 64 13 99 14 320000 15 1 16 44100"
+p65
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/17\x00Tomorrow.mp3 1 file 2 17 3 Tomorrow 4 Silverchair 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 267 10 2013 12 65 13 99 14 320000 16 44100"
+p66
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/78\x00Freak.mp3 1 file 2 78 3 Freak 4 Silverchair 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 227 10 2013 12 66 13 99 14 320000 16 44100"
+p67
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/90\x00Straight\x00Lines.mp3 1 file 2 90 3 Straight\x00Lines 4 Silverchair 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 258 10 2013 12 67 13 99 14 320000 16 44100"
+p68
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/21\x001979.mp3 1 file 2 21 3 1979 4 Smashing\x00Pumpkins 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 263 10 2013 12 68 13 99 14 320000 15 1 16 44100"
+p69
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/25\x00Bullet\x00With\x00Butterfly\x00Wings.mp3 1 file 2 25 3 Bullet\x00With\x00Butterfly\x00Wings 4 Smashing\x00Pumpkins 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 257 10 2013 12 69 13 99 14 320000 15 1 16 44100"
+p70
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/88\x00Monsters.mp3 1 file 2 88 3 Monsters 4 Something\x00For\x00Kate 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 220 10 2013 12 70 13 99 14 320000 16 44100"
+p71
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/93\x00Black\x00Hole\x00Sun.mp3 1 file 2 93 3 Black\x00Hole\x00Sun 4 Soundgarden 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 318 10 2013 12 71 13 99 14 320000 15 1 16 44100"
+p72
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/62\x00Buy\x00Me\x00a\x00Pony.mp3 1 file 2 62 3 Buy\x00Me\x00a\x00Pony 4 Spiderbait 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 104 10 2013 12 72 13 99 14 320000 15 1 16 44100"
+p73
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/26\x00Chop\x00Suey!.mp3 1 file 2 26 3 Chop\x00Suey! 4 System\x00Of\x00A\x00Down 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 211 10 2013 12 73 13 99 14 320000 16 44100"
+p74
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/27\x00Frontier\x00Psychiatrist.mp3 1 file 2 27 3 Frontier\x00Psychiatrist 4 The\x00Avalanches 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 288 10 2013 12 74 13 99 14 320000 16 44100"
+p75
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/61\x00Lonely\x00Boy.mp3 1 file 2 61 3 Lonely\x00Boy 4 The\x00Black\x00Keys 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 193 10 2013 12 75 13 99 14 320000 15 1 16 44100"
+p76
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/96\x00Hello.mp3 1 file 2 96 3 Hello 4 The\x00Cat\x00Empire 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 223 10 2013 12 76 13 99 14 320000 16 48000"
+p77
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/33\x00Zombie.mp3 1 file 2 33 3 Zombie 4 The\x00Cranberries 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 306 10 2013 12 77 13 99 14 320000 15 1 16 44100"
+p78
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/51\x00Bohemian\x00Like\x00You.mp3 1 file 2 51 3 Bohemian\x00Like\x00You 4 The\x00Dandy\x00Warhols 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 212 10 2013 12 78 13 99 14 320000 16 44100"
+p79
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/43\x00Betterman.mp3 1 file 2 43 3 Betterman 4 The\x00John\x00Butler\x00Trio 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 499 10 2013 12 79 13 99 14 320000 15 1 16 44100"
+p80
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/07\x00Mr.\x00Brightside.mp3 1 file 2 7 3 Mr.\x00Brightside 4 The\x00Killers 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 223 10 2013 12 80 13 99 14 320000 16 44100"
+p81
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/75\x00Somebody\x00Told\x00Me.mp3 1 file 2 75 3 Somebody\x00Told\x00Me 4 The\x00Killers 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 197 10 2013 12 81 13 99 14 320000 16 44100"
+p82
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/86\x00When\x00You\x00Were\x00Young.mp3 1 file 2 86 3 When\x00You\x00Were\x00Young 4 The\x00Killers 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 220 10 2013 12 82 13 99 14 320000 16 44100"
+p83
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/87\x00Na\xc3\xafve.mp3 1 file 2 87 3 Na\xc3\xafve 4 The\x00Kooks 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 201 10 2013 12 83 13 99 14 320000 15 1 16 44100"
+p84
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/20\x00Prisoner\x00Of\x00Society.mp3 1 file 2 20 3 Prisoner\x00Of\x00Society 4 The\x00Living\x00End 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 232 10 2013 12 84 13 99 14 320000 16 44100"
+p85
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/47\x00Self\x00Esteem.mp3 1 file 2 47 3 Self\x00Esteem 4 The\x00Offspring 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 258 10 2013 12 85 13 99 14 320000 15 1 16 44100"
+p86
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/77\x00My\x00People.mp3 1 file 2 77 3 My\x00People 4 The\x00Presets 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 271 10 2013 12 86 13 99 14 320000 16 44100"
+p87
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/15\x00Breathe.mp3 1 file 2 15 3 Breathe 4 The\x00Prodigy 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 339 10 2013 12 87 13 99 14 320000 15 1 16 44100"
+p88
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/48\x00Last\x00Nite.mp3 1 file 2 48 3 Last\x00Nite 4 The\x00Strokes 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 198 10 2013 12 88 13 99 14 320000 16 44100"
+p89
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/38\x00Sweet\x00Disposition.mp3 1 file 2 38 3 Sweet\x00Disposition 4 The\x00Temper\x00Trap 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 234 10 2013 12 89 13 99 14 320000 15 1 16 44100"
+p90
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/05\x00Bitter\x00Sweet\x00Symphony.mp3 1 file 2 5 3 Bitter\x00Sweet\x00Symphony 4 The\x00Verve 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 359 10 2013 12 90 13 99 14 320000 16 44100"
+p91
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/02\x00Seven\x00Nation\x00Army.mp3 1 file 2 2 3 Seven\x00Nation\x00Army 4 The\x00White\x00Stripes 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 232 10 2013 12 91 13 99 14 320000 16 44100"
+p92
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/58\x00No\x00Aphrodisiac.mp3 1 file 2 58 3 No\x00Aphrodisiac 4 The\x00Whitlams 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 260 10 2013 12 92 13 99 14 320000 15 1 16 44100"
+p93
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/74\x00Let's\x00Dance\x00To\x00Joy\x00Division.mp3 1 file 2 74 3 Let's\x00Dance\x00To\x00Joy\x00Division 4 The\x00Wombats 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 175 10 2013 12 93 13 99 14 320000 16 44100"
+p94
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/32\x00Stinkfist.mp3 1 file 2 32 3 Stinkfist 4 Tool 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 311 10 2013 12 94 13 99 14 320000 15 1 16 44100"
+p95
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/89\x00Wolf\x00Like\x00Me.mp3 1 file 2 89 3 Wolf\x00Like\x00Me 4 TV\x00On\x00The\x00Radio 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 279 10 2013 12 95 13 99 14 320000 15 1 16 44100"
+p96
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/56\x00Born\x00Slippy\x00.NUXX.mp3 1 file 2 56 3 Born\x00Slippy\x00.NUXX 4 Underworld 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 474 10 2013 12 96 13 99 14 320000 15 1 16 44100"
+p97
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/82\x00Teenage\x00Dirtbag.mp3 1 file 2 82 3 Teenage\x00Dirtbag 4 Wheatus 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 242 10 2013 12 97 13 99 14 320000 15 1 16 44100"
+p98
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/72\x00Joker\x00And\x00The\x00Thief.mp3 1 file 2 72 3 Joker\x00And\x00The\x00Thief 4 Wolfmother 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 280 10 2013 12 98 13 99 14 320000 16 44100"
+p99
+aS"0 /home/shroomin/Music/Music/Triple\x00J's\x00Hottest\x00100\x0020\x00Years\x001-100\x00[2013]\x00320kbps\x00mp3\x00[sween64]/66\x00Berlin\x00Chair.mp3 1 file 2 66 3 Berlin\x00Chair 4 You\x00Am\x00I 5 Triple\x00J's\x00Hottest\x00100:\x0020\x00Years 6 156 8 0 10 2013 12 99 13 99 14 320000 15 1 16 44100"
+p100
+a.

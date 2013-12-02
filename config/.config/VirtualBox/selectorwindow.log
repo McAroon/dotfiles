@@ -1,0 +1,13 @@
+VirtualBox GUI VM Selector Window 4.3.2_OSE r90405 linux.amd64 (Nov  2 2013 00:37:14) release log
+00:00:03.616687 Log opened 2013-11-21T21:27:06.664135000Z
+00:00:03.616693 Build Type: release
+00:00:03.616698 OS Product: Linux
+00:00:03.616700 OS Release: 3.12.0-1-ARCH
+00:00:03.616703 OS Version: #1 SMP PREEMPT Wed Nov 6 09:06:27 CET 2013
+00:00:03.616740 DMI Product Name: Vostro 1015                     
+00:00:03.616759 DMI Product Version: 
+00:00:03.617012 Host RAM: 3922MB total, 2995MB available
+00:00:03.617020 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:03.617022 Process ID: 1619
+00:00:03.617025 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:07.588848 2D support test succeeded

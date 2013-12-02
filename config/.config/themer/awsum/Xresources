@@ -1,0 +1,39 @@
+
+
+*.cursorColor: #00a000
+
+URxvt*font: xft:Ubuntu Mono derivative Powerline:pixelsize=16:antialias=true:hinting=true
+URxvt*boldFont: xft:Ubuntu Mono derivative Powerline:bold:pixelsize=16:antialias=true:hinting=true
+URxvt*italicFont: xft:Ubuntu Mono derivative Powerline:italic:pixelsize=16:antialias=true:hinting=true
+
+*background: #0e0e0e
+*foreground: #ffffff
+! black
+*color0: #002000
+*color8: #805900
+! red
+*color1: #00a000
+*color9: #00c800
+! green
+*color2: #a0a0a0
+*color10: #06c806
+! yellow
+*color3: #05a005
+*color11: #c80413
+! blue
+*color4: #a06025
+*color12: #c88a0b
+! magenta
+*color5: #a07900
+*color13: #d1257a
+! cyan
+*color6: #a00108
+*color14: #09c809
+! white
+*color7: #00a000
+*color15: #c89b01
+! underline when default
+*colorUL: #00a000
+! vim: set ft=xdefaults:
+
+URxvt*scrollBar: false

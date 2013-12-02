@@ -1,0 +1,26 @@
+#include "/home/shroomin/.colors/erosionedit"
+
+*.cursorColor: #72a0a0
+
+
+URxvt*boldFont:				-*-terminuspowerlinelsh-bold-r-normal-*-12-*-*-*-*-*-*-*
+URxvt*bolditalicFont:		-*-terminuspowerlinelsh-bold-r-normal-*-12-*-*-*-*-*-*-*
+
+URxvt*font:				-*-terminesspowerline-*-*-*-*-*-*-*-*-*-*-*-*	
+!URxvt*boldFont:			-*-terminesspowerline-*-*-*-*-*-*-*-*-*-*-*-*
+URxvt*italicFont:		-*-terminesspowerline-*-*-*-*-*-*-*-*-*-*-*-*
+!URxvt*bolditalicFont:	-*-terminesspowerline-*-*-*-*-*-*-*-*-*-*-*-*
+
+URxvt*perl-lib:			/usr/lib/urxvt/perl
+URxvt*perl-ext-common:  default,matcher,clipboard
+URxvt*url-launcher:      /usr/bin/chromium
+URxvt*perl-matcher:		1
+URxvt*matcher.button:   1
+
+URxvt*cursorBlink:		true
+URxvt*scrollBar:		false
+URxvt*depth:			33
+URxvt*internalBorder:	10
+
+! vim: set ft=xdefaults:
+

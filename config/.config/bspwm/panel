@@ -1,0 +1,7 @@
+#!/bin/sh
+
+trap 'trap - TERM; kill 0' INT TERM QUIT EXIT
+
+. $HOME/.config/bspwm/lsd
+
+cat "$PANEL_FIFO" | panel_bar | bar

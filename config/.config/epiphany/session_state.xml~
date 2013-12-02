@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<session>
+	 <window x="0" y="27" width="1366" height="741" active-tab="0" role="epiphany-window-3f30f9e6">
+	 	 <embed url="https://www.google.lv/?gws_rd=cr&amp;ei=ZjBoUt_JLeHV4gS6h4DYAg" title="Google"/>
+	 </window>
+	 <window x="0" y="27" width="1366" height="741" active-tab="0" role="epiphany-window-3f2eb2ca">
+	 	 <embed url="about:overview" title="Most Visited"/>
+	 </window>
+</session>

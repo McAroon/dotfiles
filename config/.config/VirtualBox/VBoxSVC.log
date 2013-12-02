@@ -1,0 +1,70 @@
+VirtualBox XPCOM Server 4.3.2_OSE r90405 linux.amd64 (Nov  2 2013 00:37:14) release log
+00:00:00.021027 main     Log opened 2013-11-21T21:27:04.707478000Z
+00:00:00.021035 main     Build Type: release
+00:00:00.021047 main     OS Product: Linux
+00:00:00.021050 main     OS Release: 3.12.0-1-ARCH
+00:00:00.021053 main     OS Version: #1 SMP PREEMPT Wed Nov 6 09:06:27 CET 2013
+00:00:00.021110 main     DMI Product Name: Vostro 1015                     
+00:00:00.021129 main     DMI Product Version: 
+00:00:00.021403 main     Host RAM: 3922MB total, 2997MB available
+00:00:00.021414 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.021417 main     Process ID: 1639
+00:00:00.021419 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.143114 nspr-2   Loading settings file "/home/shroomin/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.165697 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.166920 nspr-2   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:00:00.167401 nspr-2   VDInit finished
+00:00:00.167633 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={1254a96a-ae57-4484-946a-22d86c1f98af} aComponent={SystemProperties} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false
+00:00:00.913182 nspr-2   Loading settings file "/home/shroomin/VirtualBox VMs/Elementary OS/Elementary OS.vbox" with version "1.14-linux"
+00:00:02.270489 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:00:02.393689 nspr-2   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:00:02.657412 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:00:02.659964 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:00:05.674141 nspr-2   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:00:06.005046 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:00:06.125315 nspr-2   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:00:06.167774 nspr-3   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:06.195911 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:06.225549 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:00:06.408770 nspr-2   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:00:06.705250 nspr-3   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:00:06.740962 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:00:06.743359 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:01:28.877299 nspr-2   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:01:28.919584 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:01:28.923655 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:01:37.209001 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:02:03.558058 nspr-2   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={480cf695-2d8d-4256-9c7c-cce4184fa048} aComponent={Machine} aText={Machine is not locked for session (session state: Unlocked)}, preserve=false
+00:02:03.661067 nspr-2   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:02:03.710317 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:02:03.713178 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:02:03.955495 nspr-3   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:02:04.008769 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:02:04.011921 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:02:04.012085 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:02:04.035207 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:02:04.037858 nspr-2   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={3295e6ce-b051-47b2-9514-2c588bfe7554} aComponent={ExtPackManager} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false
+00:02:04.056089 nspr-3   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={480cf695-2d8d-4256-9c7c-cce4184fa048} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false
+00:02:04.063658 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:02:04.093235 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:02:04.181328 nspr-3   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:02:04.393280 nspr-2   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:02:04.440892 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:02:04.444241 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:02:04.609944 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:02:06.282493 nspr-3   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:02:06.352222 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:02:06.355256 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:20:59.364555 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:20:59.443801 nspr-2   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={3295e6ce-b051-47b2-9514-2c588bfe7554} aComponent={ExtPackManager} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false
+00:20:59.449574 nspr-2   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={480cf695-2d8d-4256-9c7c-cce4184fa048} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false
+00:20:59.516856 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:20:59.519585 nspr-3   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={3295e6ce-b051-47b2-9514-2c588bfe7554} aComponent={ExtPackManager} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false
+00:46:25.183067 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:46:25.269349 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:46:25.272257 nspr-2   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={3295e6ce-b051-47b2-9514-2c588bfe7554} aComponent={ExtPackManager} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false
+00:46:25.281286 nspr-2   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={480cf695-2d8d-4256-9c7c-cce4184fa048} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false
+00:46:25.287607 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:46:25.331071 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:46:31.819864 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={05f2bbb6-a3a6-4fb9-9b49-6d0dda7142ac} aComponent={Medium} aText={Medium '/home/shroomin/VirtualBox VMs/Elementary OS/Elementary OS.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false
+00:46:31.821303 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={fafa4e17-1ee2-4905-a10e-fe7c18bf5554} aComponent={VirtualBox} aText={The object is not ready}, preserve=false

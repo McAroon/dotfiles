@@ -1,0 +1,17 @@
+#!/bin/sh
+
+WIFIDEV=`find /sys/class/net -name 'wl*'`
+WIFIDEV=`basename $WIFIDEV`
+
+killall -9 clock battery cpu thermal memory wifi disk xtitle
+
+bspc control --subscribe > "$PANEL_FIFO" &
+xtitle -sf 'T%s' > "$PANEL_FIFO" &
+clock -sf 'C\f6%a %b %d %H:%M:%S' -i 1 > "$PANEL_FIFO" &
+battery -sf'B\f7BAT \f6%s %3d' -i 5 > $PANEL_FIFO &
+cpu -sp "P\f7CPU \f6" -f '%d%%' -i 2 > $PANEL_FIFO &
+thermal -sp 'H\f7TEMP \f6' -f '%2d\f4\f5' -i 5 > $PANEL_FIFO &
+disk -sf 'D\f7DISK \f6%.4g %s' -i 3 > $PANEL_FIFO &
+memory -sf 'M\f7MEM \f6%3d%%' -i 3 > $PANEL_FIFO &
+wifi -sf 'N\f7%s \f6%3d%%' -w $WIFIDEV -i 3 > $PANEL_FIFO &
+

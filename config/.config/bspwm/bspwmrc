@@ -1,0 +1,36 @@
+#!/bin/sh
+
+
+bspc monitor -d I II III IV V VI VII VIII IX X
+
+bspc config split_ratio                 0.52
+bspc config focused_border_color        "#009000"
+bspc config active_border_color         "#007000"
+bspc config normal_border_color         "#004000"
+bspc config focused_locked_border_color "#000090"
+bspc config active_locked_border_color  "#000070"
+bspc config normal_locked_border_color  "#000040"
+bspc config urgent_border_color         "#700000"
+bspc config border_width                2
+bspc config window_gap                  8
+bspc config borderless_monocle          true
+bspc config gapless_monocle             true
+bspc config apply_floating_atom         true
+bspc config focus_follows_pointer       true
+bspc config top_padding                 18
+bspc config normal_frame_opacity 0.0
+bspc config focused_frame_opacity 0.05
+bspc config rule_command "$(which rule_command)"
+
+rulc -a 'class=="BSPWM_FRAME"' 'frame=on'
+rulc -a 'class=="Skype"' 'floating=on'
+
+killall -9 panel
+
+panel bar &
+feh --bg-fill /home/shroomin/.wallpaper.jpg &
+compton --config ~/.config/compton.conf -b &
+/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
+xss-lock -- i3lock -i /home/shroomin/.wallpaper.png &
+systemctl --user start mpd &
+dropbox start &
